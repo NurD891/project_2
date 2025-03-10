@@ -1,6 +1,6 @@
-# 🧮 Project Report: Console Calculator  
+# Project Report: Calculator  
 
-## 📌 1. Introduction  
+## 1. Introduction  
 This project is a simple **console-based calculator** that allows users to perform arithmetic operations and additional mathematical functions.  
 
 The calculator supports:  
@@ -12,7 +12,7 @@ The calculator supports:
 
 ---
 
-## ⚙️ 2. Features  
+## 2. Features  
 
 | Feature               | Description |
 |-----------------------|------------|
@@ -26,7 +26,7 @@ The calculator supports:
 
 ---
 
-## 🔧 3. Design Choices  
+## 3. Design Choices  
 
 - Implemented using **Java** with the `Scanner` class for user input handling.  
 - Used **`Math.pow()`**, **`Math.sqrt()`**, **`Math.abs()`**, and **`Math.round()`** for mathematical operations.  
@@ -34,7 +34,7 @@ The calculator supports:
 
 ---
 
-## ⚠️ 4. Challenges Encountered  
+##  4. Challenges Encountered  
 
 ### ❌ **Handling Invalid Inputs**  
 - The program needed to detect non-numeric inputs and unexpected symbols.  
@@ -48,7 +48,7 @@ The calculator supports:
 
 ---
 
-## 🚀 5. Running the Program  
+## 5. Running the Program  
 
 ### **💻 How to Compile & Run:**  
 ```sh
